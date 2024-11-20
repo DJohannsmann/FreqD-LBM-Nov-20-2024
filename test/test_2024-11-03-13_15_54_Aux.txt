@@ -1,0 +1,3 @@
+iavg	ietaabscenSphmPas	itandelcenSph	iCovTarget	in	etaabscenSphmPas	tandelcenSph	CovTarget	n	$|\eta_{abs,Sph}|$	$tan(\delta)del_{Sph}$	$R_{Cont,SI}$	$\kappa_{Shear_SI}$	$\kappa_{Bend,SI}$		
+0	0	0	0	0	10000.0	0.1	0.3	7	(nan+nanj)	(nan+nanj)	(nan+nanj)	(nan+nanj)	(nan+nanj)	(nan+nanj)	
+0	0	0	1	0	10000.0	0.1	0.1	7	(nan+nanj)	(nan+nanj)	(nan+nanj)	(nan+nanj)	(nan+nanj)	(nan+nanj)	
